@@ -1,0 +1,11 @@
+Package: cppcwang
+Type: Package
+Title: font for ggplot2
+Version: 0.1.0
+Author: Wang Weilu
+Maintainer: Wangweilu <cppcwang@163.com>
+Description: for own use
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
